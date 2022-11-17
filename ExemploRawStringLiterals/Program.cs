@@ -1,7 +1,5 @@
 ﻿using ExemploRawStringLiterals;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
-using System.Text.Json;
 
 Console.WriteLine("***** Testes com C# 11 | Raw String Literals *****");
 Console.WriteLine($"Versao do .NET em uso: {RuntimeInformation

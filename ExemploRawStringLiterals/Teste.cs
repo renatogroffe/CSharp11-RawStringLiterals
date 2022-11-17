@@ -3,7 +3,6 @@ using System.Text.Json;
 
 namespace ExemploRawStringLiterals;
 
-
 public static class Teste
 {
     public static void ExibirConteudo(string dados)
